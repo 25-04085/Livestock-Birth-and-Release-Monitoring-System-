@@ -2,7 +2,6 @@ import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
 import java.util.Scanner;
 
-// Main Console Application for Livestock Birth & Release Monitoring System
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
