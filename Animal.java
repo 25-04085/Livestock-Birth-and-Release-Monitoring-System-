@@ -19,7 +19,7 @@ public abstract class Animal {
         this.releaseLocation = "N/A";
     }
 
-    // Getters and Setters (Encapsulation)
+    // Getters and Setters
     public String getId() {
         return id;
     }
