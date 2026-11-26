@@ -7,7 +7,8 @@ public class FarmOwner {
     private String email;
     private String phone;
     private ArrayList<String> ownedFarms;
-    public FarmOwner(String ownerId, String fullName, String email, String phone) {
+    
+public FarmOwner(String ownerId, String fullName, String email, String phone) {
         this.ownerId = ownerId;
         this.fullName = fullName;
         this.email = email;
