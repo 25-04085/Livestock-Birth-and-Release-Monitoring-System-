@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.time.Period;
 
-// Abstraction a Encapsulation: Base abstract class for all Animals
+// Abstraction A Encapsulation: Base abstract class for all Animals
 public abstract class Animal {
     private String id;
     private String type;
